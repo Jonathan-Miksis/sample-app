@@ -10,5 +10,4 @@ class ExamplePagesController < ApplicationController
   def music_action
     render json: {message: "Yay for country music"}
   end
-  
 end
