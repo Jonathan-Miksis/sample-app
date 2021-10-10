@@ -1,1 +1,4 @@
 GET http://localhost:3000/tv-shows
+
+### 
+GET http://localhost:3000/music
